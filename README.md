@@ -16,4 +16,4 @@ Because this extension is being directly loaded from a folder on your computer, 
 ## Font
 You need the Comic Sans MS font installed to use this. It usually comes with Windows and Mac.
 
-Can't get the font? Try [tedscode/sort-of-web-goodinator](https://github.com/yogurtsyum/sort-of-web-goodinator).
+Can't get the font? Try [tedscode/sort-of-web-goodinator](https://github.com/tedscode/sort-of-web-goodinator).
