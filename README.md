@@ -2,7 +2,7 @@
 A wonderful Chrome Extension that uses revolutionary technology to change every text on the internet to the best font.
 
 ## Installation
-- Download and unzip the source code. [\[?\]](#folder-notice)
+- [Download and unzip the source code.](https://github.com/tedscode/web-goodinator/archive/master.zip) [\[?\]](#folder-notice)
 - Move the unzipped folder to a place where you won't delete or move it.
 - Open chrome://extensions
 - Enable "Developer mode"
