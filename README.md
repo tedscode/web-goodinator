@@ -14,6 +14,6 @@ A wonderful Chrome Extension that uses revolutionary technology to change every 
 Because this extension is being directly loaded from a folder on your computer, if that folder is moved/deleted, the extension will break. If the folder must be moved/deleted, you can uninstall and then reinstall the extension.
 
 ## Font
-You need the Comic Sans MS font installed to use this. It usually comes with Windows and Mac.
+You need the Comic Sans MS font installed to use this. It's probably comes pre-installed on your device though.
 
 Can't get the font? Try [epic-sudo/sort-of-web-goodinator](https://github.com/epic-sudo/sort-of-web-goodinator).
