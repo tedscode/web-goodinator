@@ -1,5 +1,5 @@
 # Comic Injector
-A wonderful Chrome Extension that uses revolutionary technology to change every text on the internet to the best font.
+Comic Sans is the best font and deserves more respect on the internet. This Chrome extension changes all text on websites to Comic Sans automatically.
 
 ## Installation
 - [Download and unzip the source code.](https://github.com/ts7n/comic-injector/archive/master.zip) [\[?\]](#folder-notice)
