@@ -5,15 +5,15 @@
     "icons": {
         "128": "icon.png"
     },
-    "browser_action": {
+    "action": {
         "default_icon": {
           "128": "icon.png"
         }
     },
-    "permissions": ["activeTab", "tabs", "<all_urls>"],
+    "host_permissions": ["*://*/*", "<all_urls>"],
+    "permissions": ["activeTab", "tabs", "scripting"],
     "background": {
-        "scripts": ["background.js"],
-        "persistent": false
+        "service_worker": "background.js"
     },
-    "manifest_version": 2
+    "manifest_version": 3
 }

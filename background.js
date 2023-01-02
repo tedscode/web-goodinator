@@ -6,7 +6,10 @@ chrome.browserAction.onClicked.addListener(() => {
 
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     if(tab.url.startsWith('chrome://') || tab.url.startsWith('about:')) return;
-    chrome.tabs.executeScript(tab.id, {
-        file: 'inject.js'
+    chrome.scripting.executeScript({
+        target: {
+            tabId: tab.id,
+        },
+        files: ['inject.js'],
     });
 });
