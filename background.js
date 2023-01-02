@@ -1,4 +1,4 @@
-chrome.browserAction.onClicked.addListener(() => {
+chrome.action.onClicked.addListener(() => {
     chrome.tabs.create({
         url: 'https://youtu.be/dQw4w9WgXcQ'
     });
